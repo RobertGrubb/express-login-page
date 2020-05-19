@@ -1,0 +1,20 @@
+{
+  "name": "express-login-page",
+  "version": "1.0.1",
+  "description": "Login page for express to lockdown unwanted traffic.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/robertgrubb/express-login-page"
+  },
+  "author": "Robert Grubb",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-session": "^1.17.1"
+  }
+}
